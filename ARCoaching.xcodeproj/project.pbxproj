@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2FF373DD28FB61DF00FE3A39 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF373DC28FB61DF00FE3A39 /* AppDelegate.swift */; };
 		2FF373DF28FB61DF00FE3A39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF373DE28FB61DF00FE3A39 /* ContentView.swift */; };
-		2FF373E128FB61DF00FE3A39 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 2FF373E028FB61DF00FE3A39 /* Experience.rcproject */; };
 		2FF373E328FB61E000FE3A39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF373E228FB61E000FE3A39 /* Assets.xcassets */; };
 		2FF373E628FB61E000FE3A39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FF373E528FB61E000FE3A39 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -18,7 +17,6 @@
 		2FF373D928FB61DF00FE3A39 /* ARCoaching.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARCoaching.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF373DC28FB61DF00FE3A39 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FF373DE28FB61DF00FE3A39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2FF373E028FB61DF00FE3A39 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		2FF373E228FB61E000FE3A39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FF373E528FB61E000FE3A39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -55,7 +53,6 @@
 			children = (
 				2FF373DC28FB61DF00FE3A39 /* AppDelegate.swift */,
 				2FF373DE28FB61DF00FE3A39 /* ContentView.swift */,
-				2FF373E028FB61DF00FE3A39 /* Experience.rcproject */,
 				2FF373E228FB61E000FE3A39 /* Assets.xcassets */,
 				2FF373E428FB61E000FE3A39 /* Preview Content */,
 			);
@@ -142,7 +139,6 @@
 			files = (
 				2FF373DF28FB61DF00FE3A39 /* ContentView.swift in Sources */,
 				2FF373DD28FB61DF00FE3A39 /* AppDelegate.swift in Sources */,
-				2FF373E128FB61DF00FE3A39 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
